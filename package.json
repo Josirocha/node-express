@@ -4,7 +4,7 @@
   "description": "primeira sprint do modulo 4",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node src/index.js"
   },
   "author": "Josiane",
   "license": "ISC",
