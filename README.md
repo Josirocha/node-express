@@ -2,8 +2,7 @@
 
 ## Node/Express
 
-### ➔  criação de  ferramenta no terminal que auxilia
-desenvolvedores no dia a dia com CSS.
+### ➔  criação de  ferramenta no terminal que auxilia desenvolvedores no dia a dia com CSS.
 
 
 ◆Usar o Node para montar um código que vai receber uma
